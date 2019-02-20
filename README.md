@@ -13,3 +13,7 @@ Once you have found a team and decided on what you want to build, file your team
 ## Step 3: Let's go!
 
 Good luck :-)
+
+## Resources
+
+OpenLegalData just released a dataset with 100k court rulings and 444k citations. Find them here https://openlegaldata.io/research/2019/02/19/court-decision-dataset.html
